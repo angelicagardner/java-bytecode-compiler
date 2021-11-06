@@ -1,0 +1,12 @@
+# test.ofp
+
+void main() {
+    int[] a = new int[10];
+    int[] rev = reverse(a);
+}
+
+int[] reverse(int[] arr) {
+	# int sz = arr.length;
+	int[] toReturn = new int[10];
+	return toReturn;
+}

@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "ag223pi.dv507.a4.Main",
+            "args": "C:\\Users\\angel\\Documents\\School\\4DV507_code_transformation\\ag223pi.4dv507.A4\\src\\main\\java\\ag223pi\\dv507\\a4\\example_programs\\arrays.ofp",
+            "projectName": "main"
+        },
+        {
+            "type": "antlr-debug",
+            "request": "launch",
+            "name": "Debug Current Grammar - OFP",
+            "grammar": "C:\\Users\\angel\\Documents\\School\\4DV507_code_transformation\\ag223pi.4dv507.A4\\src\\main\\java\\ag223pi\\dv507\\a4\\OFP.g4",
+            "input": "C:\\Users\\angel\\Documents\\School\\4DV507_code_transformation\\ag223pi.4dv507.A4\\src\\main\\java\\ag223pi\\dv507\\a4\\example_programs\\arrays.ofp",
+            "visualParseTree": true
+        }
+    ]
+}
